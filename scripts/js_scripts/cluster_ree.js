@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const rawData = JSON.parse(fs.readFileSync('ree_fields.json', 'utf8'));
+const rawData = JSON.parse(fs.readFileSync('../../data/ree_fields.json', 'utf8'));
 
 const CELL_SIZE = 5;
 
@@ -120,5 +120,5 @@ Object.values(grid).forEach(fields => {
 
 clusteredOutput.sort((a, b) => b.totalTreo - a.totalTreo);
 
-fs.writeFileSync('ree_fields_clustered.json', JSON.stringify(clusteredOutput));
+fs.writeFileSync('../../data/ree_fields_clustered.json', JSON.stringify(clusteredOutput));
 console.log(`Clustered ${rawData.length} REE fields into ${clusteredOutput.length} clusters.`);

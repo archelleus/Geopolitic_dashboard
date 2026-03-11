@@ -173,11 +173,11 @@ async function main() {
     });
 
     // Save
-    fs.writeFileSync('freshwater_ratio.json', JSON.stringify(countries, null, 2));
+    fs.writeFileSync('../../data/freshwater_ratio.json', JSON.stringify(countries, null, 2));
     console.log('\nSaved to freshwater_ratio.json');
 
     // Also save a minified lookup version
-    fs.writeFileSync('freshwater_ratio_lookup.json', JSON.stringify(countries));
+    fs.writeFileSync('../../data/freshwater_ratio_lookup.json', JSON.stringify(countries));
     console.log('Saved minified to freshwater_ratio_lookup.json');
 }
 

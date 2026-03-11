@@ -2,8 +2,8 @@ import json
 import os
 import random
 
-JSON_PATH = "./automated_political_data.json"
-GTI_PATH = "./gti_proxy.json"
+JSON_PATH = "../data/automated_political_data.json"
+GTI_PATH = "../data/gti_proxy.json"
 
 # Extensive dictionary of prominent terrorist / rebel groups by ISO3 to make the JSON comprehensive and REAL for all affected nations, not just top 15.
 # This covers almost every country that has non-trivial group presence.

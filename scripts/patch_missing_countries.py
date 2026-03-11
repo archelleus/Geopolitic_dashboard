@@ -2,10 +2,10 @@ import json
 import os
 
 def patch_missing():
-    with open('automated_political_data.json', 'r') as f:
+    with open('../data/automated_political_data.json', 'r') as f:
         pdata = json.load(f)
         
-    with open('ne_110m_admin_0_countries.geojson', 'r') as f:
+    with open('../data/ne_110m_admin_0_countries.geojson', 'r') as f:
         geo = json.load(f)
 
     added = 0
@@ -37,7 +37,7 @@ def patch_missing():
             added += 1
             print(f"Added missing country/territory: {country_name} ({iso})")
             
-    with open('automated_political_data.json', 'w') as f:
+    with open('../data/automated_political_data.json', 'w') as f:
         json.dump(pdata, f, indent=2)
         
     print(f"Patched {added} missing entities into database!")

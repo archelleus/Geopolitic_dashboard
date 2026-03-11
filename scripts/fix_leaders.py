@@ -1,6 +1,6 @@
 import json
 
-JSON_PATH = "./automated_political_data.json"
+JSON_PATH = "../data/automated_political_data.json"
 
 # A specific override dictionary for the most important global leaders.
 # Sometimes Wikidata's "Head of Government" (P6) returns the Prime Minister

@@ -143,7 +143,7 @@ def main():
             "terror_incidents_last5y": "Requires GTD database"
         }
     
-    output_path = "../automated_political_data.json"
+    output_path = "../data/automated_political_data.json"
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(combined_database, f, indent=2, ensure_ascii=False)
     

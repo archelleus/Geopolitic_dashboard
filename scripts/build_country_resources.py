@@ -1,20 +1,20 @@
 import json
 
 try:
-    with open('automated_political_data.json', 'r') as f:
+    with open('../data/automated_political_data.json', 'r') as f:
         pdata = json.load(f)
 except FileNotFoundError:
     print("automated_political_data.json not found")
     exit(1)
 
 try:
-    with open('oil_fields.json', 'r') as f:
+    with open('../data/oil_fields.json', 'r') as f:
         oil_fields = json.load(f)
 except FileNotFoundError:
     oil_fields = []
 
 try:
-    with open('ree_fields.json', 'r') as f:
+    with open('../data/ree_fields.json', 'r') as f:
         ree_fields = json.load(f)
 except FileNotFoundError:
     ree_fields = []
@@ -86,7 +86,7 @@ for field in ree_fields:
 for iso in country_resources:
     country_resources[iso]['elements'] = sorted(list(country_resources[iso]['elements']))
 
-with open('country_resources.json', 'w') as f:
+with open('../data/country_resources.json', 'w') as f:
     json.dump(country_resources, f, indent=2)
 
 print("Created country_resources.json")

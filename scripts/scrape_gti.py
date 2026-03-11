@@ -27,6 +27,6 @@ with urllib.request.urlopen(req, context=ctx) as response:
                 score = float(texts[2])
                 country_scores[country_clean] = score
             
-    with open("gti_proxy.json", "w") as f:
+    with open("../data/gti_proxy.json", "w") as f:
         json.dump(country_scores, f, indent=2)
     print(f"Scraped {len(country_scores)} real terrorism scores from Wikipedia GTI page!")

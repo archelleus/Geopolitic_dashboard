@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const rawData = JSON.parse(fs.readFileSync('freshwater_data.json', 'utf8'));
+const rawData = JSON.parse(fs.readFileSync('../../data/freshwater_data.json', 'utf8'));
 
 // Build a lookup dictionary keyed by ISO3 code
 // This makes it easy to match against GeoJSON country properties (ISO_A3)
@@ -30,7 +30,7 @@ rawData.forEach(entry => {
     };
 });
 
-fs.writeFileSync('freshwater_lookup.json', JSON.stringify(lookup));
+fs.writeFileSync('../../data/freshwater_lookup.json', JSON.stringify(lookup));
 console.log(`Built freshwater lookup for ${Object.keys(lookup).length} countries.`);
 
 // Quick verification

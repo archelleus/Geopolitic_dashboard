@@ -1,7 +1,7 @@
 const xlsx = require('xlsx');
 const fs = require('fs');
 
-const wb = xlsx.readFile('Global-Oil-and-Gas-Extraction-Tracker-March-2026.xlsx');
+const wb = xlsx.readFile('../../Global-Oil-and-Gas-Extraction-Tracker-March-2026.xlsx');
 
 // 1. Load field locations
 const mainSheet = wb.Sheets['Field-level main data'];
@@ -50,7 +50,7 @@ resData.forEach(r => {
 });
 
 const allFields = Object.values(fieldMap);
-fs.writeFileSync('oil_fields.json', JSON.stringify(allFields));
+fs.writeFileSync('../../data/oil_fields.json', JSON.stringify(allFields));
 console.log(`Extracted ${allFields.length} fields with reserves data.`);
 
 // Stats

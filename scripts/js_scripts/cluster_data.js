@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const rawData = JSON.parse(fs.readFileSync('oil_fields.json', 'utf8'));
+const rawData = JSON.parse(fs.readFileSync('../../data/oil_fields.json', 'utf8'));
 
 const CELL_SIZE = 5;
 
@@ -117,7 +117,7 @@ Object.values(grid).forEach(fields => {
 // Sort by total energy for reference
 clusteredOutput.sort((a, b) => (b.totalOil + b.totalGas * 0.00629) - (a.totalOil + a.totalGas * 0.00629));
 
-fs.writeFileSync('oil_fields_clustered.json', JSON.stringify(clusteredOutput));
+fs.writeFileSync('../../data/oil_fields_clustered.json', JSON.stringify(clusteredOutput));
 console.log(`Clustered ${rawData.length} fields into ${clusteredOutput.length} clusters.`);
 const oilCount = clusteredOutput.filter(c => c.fuelType === 'oil').length;
 const gasCount = clusteredOutput.filter(c => c.fuelType === 'gas').length;

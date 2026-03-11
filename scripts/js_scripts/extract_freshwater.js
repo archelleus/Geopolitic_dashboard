@@ -188,7 +188,7 @@ async function main() {
         console.log(`  ${level}: ${count} countries`);
     });
 
-    fs.writeFileSync('freshwater_data.json', JSON.stringify(countries, null, 2));
+    fs.writeFileSync('../../data/freshwater_data.json', JSON.stringify(countries, null, 2));
     console.log('\nSaved to freshwater_data.json');
 }
 

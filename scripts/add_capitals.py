@@ -1,10 +1,10 @@
 import json
 
-with open('automated_political_data.json', 'r') as f:
+with open('../data/automated_political_data.json', 'r') as f:
     pdata = json.load(f)
 
 try:
-    with open('capitals.json', 'r') as f:
+    with open('../data/capitals.json', 'r') as f:
         cdata = json.load(f)
 except FileNotFoundError:
     print('No capitals.json')
@@ -34,7 +34,7 @@ for iso in pdata:
         # Fallbacks for any missing standard ISOs
         pass
 
-with open('automated_political_data.json', 'w') as f:
+with open('../data/automated_political_data.json', 'w') as f:
     json.dump(pdata, f, indent=2)
 
 print(f"Added precise capital locations for {count} countries.")

@@ -1,12 +1,12 @@
 import json
 
-with open('automated_political_data.json', 'r') as f:
+with open('../data/automated_political_data.json', 'r') as f:
     pdata = json.load(f)
 
-with open('oil_fields_clustered.json', 'r') as f:
+with open('../data/oil_fields_clustered.json', 'r') as f:
     oil_gas_clusters = json.load(f)
 
-with open('ree_fields_clustered.json', 'r') as f:
+with open('../data/ree_fields_clustered.json', 'r') as f:
     ree_clusters = json.load(f)
 
 # Helper to find ISO by country name
@@ -82,7 +82,7 @@ for iso, records in ree_map.items():
          pdata[iso]['economic_resources']['ree_reserves'] = f"Active Occurrences & Deposits (No major TREO)"
 
 
-with open('automated_political_data.json', 'w') as f:
+with open('../data/automated_political_data.json', 'w') as f:
     json.dump(pdata, f, indent=2)
 
 print("Successfully integrated Oil, Gas, and REE data into automated_political_data.json")

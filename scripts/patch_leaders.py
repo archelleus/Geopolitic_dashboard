@@ -1,6 +1,6 @@
 import json
 
-file_path = 'automated_political_data.json'
+file_path = '../data/automated_political_data.json'
 with open(file_path, 'r') as f:
     data = json.load(f)
 

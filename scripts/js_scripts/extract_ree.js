@@ -1,7 +1,7 @@
 const xlsx = require('xlsx');
 const fs = require('fs');
 
-const wb = xlsx.readFile('Global_REE_occurrence_database.xlsx');
+const wb = xlsx.readFile('../../Global_REE_occurrence_database.xlsx');
 const mainSheet = wb.Sheets['Sheet1'];
 const mainData = xlsx.utils.sheet_to_json(mainSheet);
 
@@ -44,7 +44,7 @@ const significant = allFields.filter(f => {
     return isDeposit || hasTreo;
 });
 
-fs.writeFileSync('ree_fields.json', JSON.stringify(significant, null, 2));
+fs.writeFileSync('../../data/ree_fields.json', JSON.stringify(significant, null, 2));
 console.log(`Filtered to ${significant.length} significant deposits (from ${allFields.length} total).`);
 
 const withTreo = significant.filter(f => f.treo_mt > 0).length;

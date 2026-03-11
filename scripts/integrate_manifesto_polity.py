@@ -5,7 +5,7 @@ import html
 import ssl
 import os
 
-JSON_PATH = "./automated_political_data.json"
+JSON_PATH = "../data/automated_political_data.json"
 ctx = ssl.create_default_context()
 ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE

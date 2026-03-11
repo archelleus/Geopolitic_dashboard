@@ -93,7 +93,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const oilDS = registerLayer('oil_reserves', 'Oil Reserves', '#ef4444');
     const gasDS = registerLayer('gas_reserves', 'Natural Gas Reserves', '#3b82f6');
 
-    fetch('oil_fields_clustered.json')
+    fetch('data/oil_fields_clustered.json')
         .then(response => response.json())
         .then(data => {
             const maxEnergy = Math.max(...data.map(c => c.totalOil + c.totalGas * 0.00629));
@@ -135,7 +135,7 @@ document.addEventListener("DOMContentLoaded", () => {
             // ========== RARE EARTH ELEMENTS LAYER ==========
             const reeDS = registerLayer('rare_earth_elements', 'Rare Earth Elements', '#f59e0b');
 
-            fetch('ree_fields_clustered.json')
+            fetch('data/ree_fields_clustered.json')
                 .then(response => response.json())
                 .then(reeData => {
                     reeData.forEach(cluster => {
@@ -174,7 +174,7 @@ document.addEventListener("DOMContentLoaded", () => {
     let searchIndex = [];
     let activeCapitalEntity = null;
 
-    fetch('automated_political_data.json')
+    fetch('data/automated_political_data.json')
         .then(res => res.json())
         .then(data => {
             politicalData = data;

@@ -14,7 +14,7 @@ def get_bbc(poly):
     maxy = max(p[1] for p in poly)
     return (minx + maxx) / 2.0, (miny + maxy) / 2.0
 
-with open('ne_110m_admin_0_countries.geojson', 'r') as f:
+with open('../data/ne_110m_admin_0_countries.geojson', 'r') as f:
     data = json.load(f)
 
 centroids = {}
@@ -47,7 +47,7 @@ for feature in data.get('features', []):
         lng, lat = get_bbc(biggest_poly)
         centroids[iso] = {'lat': lat, 'lng': lng}
 
-with open('automated_political_data.json', 'r') as f:
+with open('../data/automated_political_data.json', 'r') as f:
     pdata = json.load(f)
 
 for iso, coords in centroids.items():
@@ -71,7 +71,7 @@ special_fixes = {
 for iso, fix in special_fixes.items():
     if iso in pdata: pdata[iso]['location'] = fix
 
-with open('automated_political_data.json', 'w') as f:
+with open('../data/automated_political_data.json', 'w') as f:
     json.dump(pdata, f, indent=2)
 
 print("Centroids fixed intelligently!")
