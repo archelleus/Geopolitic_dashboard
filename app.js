@@ -17,16 +17,22 @@ document.addEventListener("DOMContentLoaded", () => {
         skyAtmosphere: false,
 
         requestRenderMode: false,
-        // Esri Dark Gray Canvas basemap
+        // CartoDB Dark Matter
         baseLayer: new Cesium.ImageryLayer(
             new Cesium.UrlTemplateImageryProvider({
-                url: 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}',
-                credit: 'Esri',
-                tileWidth: 256,
-                tileHeight: 256
+                url: 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}@2x.png',
+                subdomains: ['a', 'b', 'c', 'd'],
+                credit: 'OpenStreetMap, CartoDB',
+                tileWidth: 512,
+                tileHeight: 512
             })
         )
     });
+
+    // Make map tiles load ahead of time and keep them inside the cache
+    viewer.scene.globe.maximumScreenSpaceError = 2.5; // Slightly higher error allows faster loading
+    viewer.scene.globe.tileCacheSize = 1000; // Keep up to 1000 rendered tiles in memory
+
 
     viewer.scene.globe.depthTestAgainstTerrain = false;
     viewer.scene.globe.baseColor = Cesium.Color.fromCssColorString('#0a0a1a');
