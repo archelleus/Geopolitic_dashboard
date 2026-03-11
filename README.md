@@ -65,5 +65,3 @@ If you need to re-run the data extraction and integration steps:
 2. Ensure you have the required dependencies (`pandas`, `geopandas` for Python; `xlsx`, `puppeteer` for Node.js located in the root `package.json`).
 3. Run the individual extraction or clustering scripts (e.g., `node js_scripts/extract_data.js`).
 
-## License
-MIT
