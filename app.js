@@ -17,14 +17,13 @@ document.addEventListener("DOMContentLoaded", () => {
         skyAtmosphere: false,
 
         requestRenderMode: false,
-        // Dark basemap with @2x retina tiles
+        // Esri Dark Gray Canvas basemap
         baseLayer: new Cesium.ImageryLayer(
             new Cesium.UrlTemplateImageryProvider({
-                url: 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}@2x.png',
-                subdomains: ['a', 'b', 'c', 'd'],
-                credit: '',
-                tileWidth: 512,
-                tileHeight: 512
+                url: 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}',
+                credit: 'Esri',
+                tileWidth: 256,
+                tileHeight: 256
             })
         )
     });
