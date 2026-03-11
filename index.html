@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Global Energy Dashboard</title>
+    <!-- CesiumJS CSS -->
+    <link href="https://cesium.com/downloads/cesiumjs/releases/1.114/Build/Cesium/Widgets/widgets.css" rel="stylesheet">
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="cesiumContainer"></div>
+
+    <div id="tooltip" class="tooltip"></div>
+
+    <!-- Intelligent Country Search Bar -->
+    <div id="search-container">
+        <input type="text" id="country-search" placeholder="Search for a country... (e.g. India, USA)"
+            autocomplete="off">
+        <div id="search-results" class="hidden"></div>
+    </div>
+
+    <div id="layer-control" class="layer-control">
+        <div class="layer-header">Layers</div>
+        <div id="layer-panel"></div>
+    </div>
+
+    <!-- Political Profile Side Panel -->
+    <div id="country-panel" class="glass-panel side-panel hidden">
+        <button id="close-cp-cross" class="close-icon">&times;</button>
+        <h2 id="cp-name" style="margin-bottom: 0.2rem;">Country Name</h2>
+        <div id="cp-capital" style="color: #94a3b8; font-size: 1.1rem; margin-bottom: 1.5rem; padding-right: 2rem;">
+            Capital City</div>
+        <div class="cp-section">
+            <div class="cp-label">Governance</div>
+            <div class="cp-value" id="cp-gov" style="text-transform: capitalize;">...</div>
+            <div class="cp-value" id="cp-regime">...</div>
+        </div>
+        <div class="cp-section">
+            <div class="cp-label">Leadership</div>
+            <div class="cp-value"><strong id="cp-leader">...</strong></div>
+            <div class="cp-value" id="cp-party">...</div>
+            <div class="cp-value" id="cp-ideology">...</div>
+        </div>
+        <div class="cp-section">
+            <div class="cp-label">Main Opposition</div>
+            <div class="cp-value"><strong id="cp-opp">...</strong></div>
+            <div class="cp-value" id="cp-opp-ideology">...</div>
+        </div>
+        <div class="cp-section">
+            <div class="cp-label">Stability & Security</div>
+            <div class="cp-value">Stability Index: <span id="cp-stability">...</span></div>
+            <div class="cp-value">Terrorism Risk: <span id="cp-terror">...</span></div>
+        </div>
+        <div class="cp-section">
+            <div class="cp-label">Prominent Extremist Groups</div>
+            <div class="cp-value" id="cp-extremist">...</div>
+        </div>
+        <div class="cp-section">
+            <div class="cp-label">Core Economic Resources</div>
+            <div class="cp-value">🛢️ Oil Reserves: <span id="cp-oil-total">...</span></div>
+            <div class="cp-value">🔵 Gas Reserves: <span id="cp-gas-total">...</span></div>
+            <div class="cp-value">💎 Rare Earths (TREO): <span id="cp-ree-total">...</span></div>
+            <div class="cp-value" style="margin-top: 0.5rem; font-size: 0.85rem; color: #94a3b8;">
+                Found Materials: <br><span id="cp-elements" style="color: #e2e8f0;">...</span>
+            </div>
+        </div>
+        <button id="close-cp" class="glass-button" style="position:static; margin-top:1rem; width: 100%;">Close
+            Panel</button>
+    </div>
+
+    <button id="toggle-view" class="glass-button">Switch to 2D View</button>
+
+    <!-- CesiumJS library -->
+    <script src="https://cesium.com/downloads/cesiumjs/releases/1.114/Build/Cesium/Cesium.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>

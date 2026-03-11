@@ -1,0 +1,1205 @@
+{
+  "CAN": {
+    "oil_mmbbl": 17537.071000000004,
+    "gas_mm3": 3453114.392,
+    "treo_mt": 32023.070300000003,
+    "elements": [
+      "Al",
+      "Be",
+      "Cobalt",
+      "Copper",
+      "Fe",
+      "Ga",
+      "Hf",
+      "Lithium",
+      "Mo",
+      "Nickel",
+      "Niobium",
+      "P",
+      "Rare Earths",
+      "Sc",
+      "Tantalum",
+      "Thorium",
+      "Titanium",
+      "Uranium",
+      "Vanadium",
+      "Zn",
+      "Zr"
+    ]
+  },
+  "NOR": {
+    "oil_mmbbl": 8465.883,
+    "gas_mm3": 1588123.7,
+    "treo_mt": 4.895025,
+    "elements": [
+      "Be",
+      "Fe",
+      "Lithium",
+      "Niobium",
+      "P",
+      "Rare Earths",
+      "Sc",
+      "Sn",
+      "Tantalum",
+      "Thorium",
+      "Titanium",
+      "Uranium",
+      "Zr"
+    ]
+  },
+  "ARG": {
+    "oil_mmbbl": 3849.168,
+    "gas_mm3": 725510.64,
+    "treo_mt": 2.035324,
+    "elements": [
+      "Gold",
+      "Platinum Group Elements",
+      "Rare Earths",
+      "SS",
+      "Thorium",
+      "Titanium",
+      "Uranium",
+      "Zr"
+    ]
+  },
+  "UZB": {
+    "oil_mmbbl": 2119.655,
+    "gas_mm3": 1989218,
+    "treo_mt": 0.25,
+    "elements": [
+      "Bi",
+      "Cobalt",
+      "Copper",
+      "Cs",
+      "Gold",
+      "Mo",
+      "Rare Earths",
+      "Re",
+      "Sc",
+      "Se",
+      "Sn",
+      "Thorium",
+      "Uranium",
+      "Vanadium",
+      "W"
+    ]
+  },
+  "RUS": {
+    "oil_mmbbl": 187711.20599999995,
+    "gas_mm3": 47018015.044,
+    "treo_mt": 240.4712,
+    "elements": [
+      "Ba",
+      "Be",
+      "F",
+      "Fe",
+      "Ga",
+      "Hf",
+      "Lithium",
+      "Niobium",
+      "P",
+      "Platinum Group Elements",
+      "Rare Earths",
+      "Sc",
+      "Sr",
+      "Tantalum",
+      "Thorium",
+      "Titanium",
+      "Uranium",
+      "Vanadium",
+      "Zr"
+    ]
+  },
+  "NLD": {
+    "oil_mmbbl": 155.524,
+    "gas_mm3": 330280.63899999997,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "IDN": {
+    "oil_mmbbl": 3512.6360000000004,
+    "gas_mm3": 9150735.141999997,
+    "treo_mt": 0,
+    "elements": [
+      "Fe",
+      "Niobium",
+      "Rare Earths",
+      "Sn",
+      "Tantalum",
+      "Titanium",
+      "Zr"
+    ]
+  },
+  "BRA": {
+    "oil_mmbbl": 214316.74499999994,
+    "gas_mm3": 5326510.544000002,
+    "treo_mt": 121.43124390000001,
+    "elements": [
+      "Al",
+      "Ba",
+      "Be",
+      "F",
+      "Fe",
+      "Gold",
+      "Mn",
+      "Mo",
+      "Niobium",
+      "P",
+      "Pb",
+      "Rare Earths",
+      "Sn",
+      "Tantalum",
+      "Thorium",
+      "Titanium",
+      "Uranium",
+      "Vanadium",
+      "Zn",
+      "Zr"
+    ]
+  },
+  "NGA": {
+    "oil_mmbbl": 11863.31,
+    "gas_mm3": 545622.635,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "IRN": {
+    "oil_mmbbl": 444092.35799999995,
+    "gas_mm3": 13045858.625,
+    "treo_mt": 0,
+    "elements": [
+      "Fe",
+      "P",
+      "Rare Earths"
+    ]
+  },
+  "COL": {
+    "oil_mmbbl": 2197.44,
+    "gas_mm3": 279120.66900000005,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "USA": {
+    "oil_mmbbl": 11572.7,
+    "gas_mm3": 529125.7960000001,
+    "treo_mt": 5.093596,
+    "elements": [
+      "Ba",
+      "Be",
+      "Bi",
+      "Copper",
+      "F",
+      "Fe",
+      "Gold",
+      "Hg",
+      "Niobium",
+      "P",
+      "Platinum Group Elements",
+      "Rare Earths",
+      "SS",
+      "Silver",
+      "Sn",
+      "Tantalum",
+      "Thorium",
+      "Titanium",
+      "Uranium",
+      "Vanadium",
+      "W",
+      "Zr"
+    ]
+  },
+  "KWT": {
+    "oil_mmbbl": 122887.15000000001,
+    "gas_mm3": 583330.2,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "GBR": {
+    "oil_mmbbl": 3663.63,
+    "gas_mm3": 489869.78399999987,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "MEX": {
+    "oil_mmbbl": 11592.060000000001,
+    "gas_mm3": 628012.158,
+    "treo_mt": 0.0035,
+    "elements": [
+      "F",
+      "Niobium",
+      "Rare Earths",
+      "Thorium",
+      "Zn"
+    ]
+  },
+  "SAU": {
+    "oil_mmbbl": 206635.53,
+    "gas_mm3": 7564649.82,
+    "treo_mt": 0,
+    "elements": [
+      "F",
+      "Fe",
+      "Niobium",
+      "P",
+      "Rare Earths",
+      "Sn",
+      "Tantalum",
+      "Thorium",
+      "Titanium",
+      "Uranium",
+      "Zr"
+    ]
+  },
+  "AZE": {
+    "oil_mmbbl": 2202.8160000000003,
+    "gas_mm3": 1112470.769,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "ARE": {
+    "oil_mmbbl": 80906.06,
+    "gas_mm3": 587973.174,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "LBY": {
+    "oil_mmbbl": 22799.860000000004,
+    "gas_mm3": 481402,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "OMN": {
+    "oil_mmbbl": 14408.532999999998,
+    "gas_mm3": 1071961.07,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "EGY": {
+    "oil_mmbbl": 3427.39,
+    "gas_mm3": 1452398.837,
+    "treo_mt": 0,
+    "elements": [
+      "Rare Earths",
+      "Titanium",
+      "Zr"
+    ]
+  },
+  "IRQ": {
+    "oil_mmbbl": 154412.29200000002,
+    "gas_mm3": 674284.404,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "AGO": {
+    "oil_mmbbl": 12926.809999999998,
+    "gas_mm3": 98070.741,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "VEN": {
+    "oil_mmbbl": 552189.9639999999,
+    "gas_mm3": 443429.51,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "VNM": {
+    "oil_mmbbl": 328.12,
+    "gas_mm3": 177988.274,
+    "treo_mt": 10.233125,
+    "elements": [
+      "Ba",
+      "Copper",
+      "F",
+      "Fe",
+      "Gold",
+      "Niobium",
+      "Rare Earths",
+      "Silver",
+      "Sr",
+      "Thorium",
+      "Titanium",
+      "Uranium",
+      "Zr"
+    ]
+  },
+  "DNK": {
+    "oil_mmbbl": 501.86299999999994,
+    "gas_mm3": 37986.504,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "PAK": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 113268,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "CHN": {
+    "oil_mmbbl": 161311.92500000005,
+    "gas_mm3": 18953051.086,
+    "treo_mt": 83.1407971,
+    "elements": [
+      "Al",
+      "Ba",
+      "Be",
+      "Bi",
+      "Cobalt",
+      "Copper",
+      "Cr",
+      "F",
+      "Fe",
+      "Gold",
+      "Hf",
+      "Mo",
+      "Nickel",
+      "Niobium",
+      "P",
+      "Pb",
+      "Rare Earths",
+      "Silver",
+      "Sn",
+      "Sr",
+      "Tantalum",
+      "Thorium",
+      "Titanium",
+      "Uranium",
+      "Vanadium",
+      "W",
+      "Zr"
+    ]
+  },
+  "GHA": {
+    "oil_mmbbl": 340,
+    "gas_mm3": 0,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "ECU": {
+    "oil_mmbbl": 4329.945000000001,
+    "gas_mm3": 4.927,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "SYR": {
+    "oil_mmbbl": 760,
+    "gas_mm3": 9000,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "SEN": {
+    "oil_mmbbl": 630,
+    "gas_mm3": 0,
+    "treo_mt": 0,
+    "elements": [
+      "Rare Earths",
+      "Titanium",
+      "Zr"
+    ]
+  },
+  "DZA": {
+    "oil_mmbbl": 4884.760000000001,
+    "gas_mm3": 3866122.6379999993,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "DEU": {
+    "oil_mmbbl": 1205.789,
+    "gas_mm3": 106217.06700000001,
+    "treo_mt": 0,
+    "elements": [
+      "Niobium",
+      "Rare Earths",
+      "Titanium",
+      "Zr"
+    ]
+  },
+  "KAZ": {
+    "oil_mmbbl": 41543.752,
+    "gas_mm3": 890910.4700000001,
+    "treo_mt": 25.19707,
+    "elements": [
+      "Be",
+      "Cobalt",
+      "F",
+      "Ga",
+      "Lithium",
+      "Nickel",
+      "Niobium",
+      "P",
+      "Rare Earths",
+      "Sc",
+      "Sn",
+      "Thorium",
+      "Titanium",
+      "Uranium",
+      "Vanadium"
+    ]
+  },
+  "CUB": {
+    "oil_mmbbl": 8942.211,
+    "gas_mm3": 0,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "QAT": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 4637701.625999999,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "POL": {
+    "oil_mmbbl": 60.372000000000014,
+    "gas_mm3": 67542.412,
+    "treo_mt": 0,
+    "elements": [
+      "Rare Earths",
+      "Titanium",
+      "Zr"
+    ]
+  },
+  "HUN": {
+    "oil_mmbbl": 250.694,
+    "gas_mm3": 80000,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "YEM": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 0,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "PER": {
+    "oil_mmbbl": 148,
+    "gas_mm3": 372368.55000000005,
+    "treo_mt": 0,
+    "elements": [
+      "Fe",
+      "Gold",
+      "P",
+      "Rare Earths",
+      "Titanium",
+      "W",
+      "Zr"
+    ]
+  },
+  "ITA": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 587681.6560000002,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "TTO": {
+    "oil_mmbbl": 82.44,
+    "gas_mm3": 674496.626,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "ROU": {
+    "oil_mmbbl": 1099.645,
+    "gas_mm3": 1548355.103,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "MAR": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 10222.437,
+    "treo_mt": 0,
+    "elements": [
+      "Fe",
+      "Gold",
+      "Mo",
+      "Niobium",
+      "Rare Earths",
+      "Tantalum",
+      "Uranium",
+      "Vanadium"
+    ]
+  },
+  "AUS": {
+    "oil_mmbbl": 1478.7000000000003,
+    "gas_mm3": 2216692.861,
+    "treo_mt": 62.522667999999996,
+    "elements": [
+      "Cobalt",
+      "Copper",
+      "Fe",
+      "Ga",
+      "Gold",
+      "Hf",
+      "Lithium",
+      "Mn",
+      "Mo",
+      "Niobium",
+      "P",
+      "Platinum Group Elements",
+      "Rare Earths",
+      "SS",
+      "Sc",
+      "Silver",
+      "Sn",
+      "Tantalum",
+      "Thorium",
+      "Titanium",
+      "Uranium",
+      "Zr"
+    ]
+  },
+  "MYS": {
+    "oil_mmbbl": 1112.59,
+    "gas_mm3": 1312596.041,
+    "treo_mt": 0,
+    "elements": [
+      "Gold",
+      "Niobium",
+      "Rare Earths",
+      "Sn",
+      "Thorium",
+      "Titanium",
+      "Uranium",
+      "Zr"
+    ]
+  },
+  "IND": {
+    "oil_mmbbl": 209.75199999999998,
+    "gas_mm3": 200521.63700000005,
+    "treo_mt": 1.202,
+    "elements": [
+      "Ba",
+      "Be",
+      "F",
+      "Fe",
+      "Ga",
+      "Ge",
+      "Niobium",
+      "P",
+      "Rare Earths",
+      "Sr",
+      "Tantalum",
+      "Thorium",
+      "Titanium",
+      "Uranium",
+      "Zr"
+    ]
+  },
+  "CYP": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 506874.30000000005,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "CHL": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 0,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "THA": {
+    "oil_mmbbl": 313.6499999999999,
+    "gas_mm3": 188430.09399999998,
+    "treo_mt": 0,
+    "elements": [
+      "Niobium",
+      "Rare Earths",
+      "Sn",
+      "Tantalum",
+      "Thorium",
+      "Titanium",
+      "Uranium",
+      "W",
+      "Zr"
+    ]
+  },
+  "ISR": {
+    "oil_mmbbl": 45.300000000000004,
+    "gas_mm3": 1193870.554,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "MOZ": {
+    "oil_mmbbl": 230.62,
+    "gas_mm3": 2385331.2,
+    "treo_mt": 0,
+    "elements": [
+      "Be",
+      "Bi",
+      "Cs",
+      "Lithium",
+      "Niobium",
+      "P",
+      "Rare Earths",
+      "Sc",
+      "Tantalum",
+      "Thorium",
+      "Titanium",
+      "Uranium",
+      "Zr"
+    ]
+  },
+  "GTM": {
+    "oil_mmbbl": 49.755,
+    "gas_mm3": 0,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "TCD": {
+    "oil_mmbbl": 146.9,
+    "gas_mm3": 0,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "SUR": {
+    "oil_mmbbl": 1212.54,
+    "gas_mm3": 40210.14,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "MRT": {
+    "oil_mmbbl": 396.52,
+    "gas_mm3": 3027792.957,
+    "treo_mt": 0,
+    "elements": [
+      "Ba",
+      "F",
+      "Rare Earths"
+    ]
+  },
+  "COG": {
+    "oil_mmbbl": 701.03,
+    "gas_mm3": 3706.978,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "GUY": {
+    "oil_mmbbl": 7085.6,
+    "gas_mm3": 95523.71800000001,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "IRL": {
+    "oil_mmbbl": 559.69,
+    "gas_mm3": 136691.073,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "UKR": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 153500,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "BGD": {
+    "oil_mmbbl": 5.76,
+    "gas_mm3": 562833.506,
+    "treo_mt": 0,
+    "elements": [
+      "Fe",
+      "Rare Earths",
+      "Titanium",
+      "Zr"
+    ]
+  },
+  "BRB": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 169.902,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "BOL": {
+    "oil_mmbbl": 126.8,
+    "gas_mm3": 161259.652,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "ZAF": {
+    "oil_mmbbl": 192,
+    "gas_mm3": 444349.5,
+    "treo_mt": 4.1561,
+    "elements": [
+      "Copper",
+      "F",
+      "Fe",
+      "Gold",
+      "Niobium",
+      "P",
+      "Platinum Group Elements",
+      "Rare Earths",
+      "Sc",
+      "Silver",
+      "Sn",
+      "Tantalum",
+      "Thorium",
+      "Titanium",
+      "Uranium",
+      "Zn",
+      "Zr"
+    ]
+  },
+  "ETH": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 240694.5,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "TZA": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 1045716.228,
+    "treo_mt": 1,
+    "elements": [
+      "Niobium",
+      "P",
+      "Rare Earths",
+      "Tantalum",
+      "Zn"
+    ]
+  },
+  "TUN": {
+    "oil_mmbbl": 383,
+    "gas_mm3": 35679.42,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "TKM": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 1161000,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "BRN": {
+    "oil_mmbbl": 237.686,
+    "gas_mm3": 82716.649,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "PNG": {
+    "oil_mmbbl": 57,
+    "gas_mm3": 0,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "GAB": {
+    "oil_mmbbl": 59.53,
+    "gas_mm3": 0,
+    "treo_mt": 0,
+    "elements": [
+      "Niobium",
+      "P",
+      "Rare Earths",
+      "Tantalum",
+      "Zr"
+    ]
+  },
+  "PHL": {
+    "oil_mmbbl": 125,
+    "gas_mm3": 84951,
+    "treo_mt": 0,
+    "elements": [
+      "Cr",
+      "Rare Earths",
+      "Thorium",
+      "Uranium"
+    ]
+  },
+  "PSE": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 28000,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "NAM": {
+    "oil_mmbbl": 15840,
+    "gas_mm3": 36812.1,
+    "treo_mt": 1.005594,
+    "elements": [
+      "Fe",
+      "Niobium",
+      "Rare Earths",
+      "Sr",
+      "Thorium",
+      "Uranium",
+      "W",
+      "Zr"
+    ]
+  },
+  "MNG": {
+    "oil_mmbbl": 194,
+    "gas_mm3": 0,
+    "treo_mt": 4.001923,
+    "elements": [
+      "Ba",
+      "Be",
+      "F",
+      "Fe",
+      "Lithium",
+      "Niobium",
+      "P",
+      "Pb",
+      "Rare Earths",
+      "Sr",
+      "Tantalum",
+      "W",
+      "Zn",
+      "Zr"
+    ]
+  },
+  "AUT": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 23304.016,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "NZL": {
+    "oil_mmbbl": 43.3,
+    "gas_mm3": 35136.01700000001,
+    "treo_mt": 0.0004,
+    "elements": [
+      "Gold",
+      "Rare Earths",
+      "Sn",
+      "Titanium",
+      "Zr"
+    ]
+  },
+  "BHR": {
+    "oil_mmbbl": 80000,
+    "gas_mm3": 679543.437,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "UGA": {
+    "oil_mmbbl": 2120,
+    "gas_mm3": 0,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "FRA": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 348299.1,
+    "treo_mt": 0,
+    "elements": [
+      "Rare Earths"
+    ]
+  },
+  "CMR": {
+    "oil_mmbbl": 55.4,
+    "gas_mm3": 10420.655999999999,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "MMR": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 164360.929,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "JPN": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 3788.815,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "ZWE": {
+    "oil_mmbbl": 7,
+    "gas_mm3": 9943.83,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "SSD": {
+    "oil_mmbbl": 900,
+    "gas_mm3": 0,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "ALB": {
+    "oil_mmbbl": 29.04,
+    "gas_mm3": 0,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "JOR": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 346316.91000000003,
+    "treo_mt": 0,
+    "elements": []
+  },
+  "ESP": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 99109.5,
+    "treo_mt": 0.0252,
+    "elements": [
+      "Rare Earths"
+    ]
+  },
+  "KEN": {
+    "oil_mmbbl": 925,
+    "gas_mm3": 0,
+    "treo_mt": 3,
+    "elements": [
+      "Ba",
+      "Mn",
+      "Niobium",
+      "Pb",
+      "Rare Earths",
+      "Silver",
+      "Zn"
+    ]
+  },
+  "MDG": {
+    "oil_mmbbl": 259.7,
+    "gas_mm3": 0,
+    "treo_mt": 0.135,
+    "elements": [
+      "Niobium",
+      "Rare Earths",
+      "Sn",
+      "Tantalum",
+      "Thorium",
+      "Titanium",
+      "Zr"
+    ]
+  },
+  "PRK": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 0,
+    "treo_mt": 1,
+    "elements": [
+      "F",
+      "P",
+      "Rare Earths",
+      "Titanium",
+      "Zr"
+    ]
+  },
+  "KOR": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 0,
+    "treo_mt": 0,
+    "elements": [
+      "Fe",
+      "Gold",
+      "Hf",
+      "Niobium",
+      "Rare Earths",
+      "Thorium",
+      "Titanium",
+      "Zr"
+    ]
+  },
+  "TWN": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 0,
+    "treo_mt": 0,
+    "elements": [
+      "Rare Earths",
+      "Titanium",
+      "Zr"
+    ]
+  },
+  "BDI": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 0,
+    "treo_mt": 0.142,
+    "elements": [
+      "Rare Earths"
+    ]
+  },
+  "COD": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 0,
+    "treo_mt": 0,
+    "elements": [
+      "Niobium",
+      "Rare Earths",
+      "Sn",
+      "Tantalum",
+      "W"
+    ]
+  },
+  "MWI": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 0,
+    "treo_mt": 3.136,
+    "elements": [
+      "Ba",
+      "F",
+      "Niobium",
+      "P",
+      "Rare Earths",
+      "Sr",
+      "Tantalum",
+      "Thorium",
+      "Uranium"
+    ]
+  },
+  "SLE": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 0,
+    "treo_mt": 0,
+    "elements": [
+      "Gold",
+      "Rare Earths",
+      "Titanium",
+      "Zr"
+    ]
+  },
+  "AFG": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 0,
+    "treo_mt": 2,
+    "elements": [
+      "F",
+      "P",
+      "Rare Earths",
+      "Uranium",
+      "Zr"
+    ]
+  },
+  "KGZ": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 0,
+    "treo_mt": 57.9804603,
+    "elements": [
+      "Be",
+      "Bi",
+      "Copper",
+      "Gold",
+      "Mo",
+      "Niobium",
+      "Pb",
+      "Rare Earths",
+      "Sn",
+      "Tantalum",
+      "Thorium",
+      "Titanium",
+      "Uranium",
+      "Zn",
+      "Zr"
+    ]
+  },
+  "LKA": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 0,
+    "treo_mt": 3,
+    "elements": [
+      "Rare Earths",
+      "Titanium",
+      "Zr"
+    ]
+  },
+  "TJK": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 0,
+    "treo_mt": 0,
+    "elements": [
+      "Be",
+      "Mo",
+      "Niobium",
+      "Rare Earths"
+    ]
+  },
+  "FIN": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 0,
+    "treo_mt": 0,
+    "elements": [
+      "Niobium",
+      "P",
+      "Pb",
+      "Rare Earths",
+      "Sc",
+      "Thorium",
+      "Uranium",
+      "Zn",
+      "Zr"
+    ]
+  },
+  "GRC": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 0,
+    "treo_mt": 0.198021,
+    "elements": [
+      "Al",
+      "As",
+      "Cobalt",
+      "Cr",
+      "Fe",
+      "Gold",
+      "Mg",
+      "Mn",
+      "Nickel",
+      "Niobium",
+      "Rare Earths",
+      "Thorium",
+      "Titanium",
+      "Uranium",
+      "Zr"
+    ]
+  },
+  "GRL": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 0,
+    "treo_mt": 30.995,
+    "elements": [
+      "Be",
+      "F",
+      "Lithium",
+      "Mo",
+      "Niobium",
+      "P",
+      "Rare Earths",
+      "Sn",
+      "Tantalum",
+      "Thorium",
+      "Titanium",
+      "Uranium",
+      "Zn",
+      "Zr"
+    ]
+  },
+  "SWE": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 0,
+    "treo_mt": 0.237,
+    "elements": [
+      "Copper",
+      "F",
+      "Fe",
+      "Hf",
+      "Mn",
+      "Niobium",
+      "P",
+      "Pb",
+      "Rare Earths",
+      "Uranium",
+      "Zr"
+    ]
+  },
+  "PRT": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 0,
+    "treo_mt": 0.0104,
+    "elements": [
+      "Rare Earths",
+      "Titanium",
+      "Zr"
+    ]
+  },
+  "TUR": {
+    "oil_mmbbl": 0,
+    "gas_mm3": 0,
+    "treo_mt": 1.2988,
+    "elements": [
+      "Ba",
+      "F",
+      "Fe",
+      "Ga",
+      "Niobium",
+      "Rare Earths",
+      "Sc",
+      "Thorium",
+      "Titanium",
+      "Uranium",
+      "Zr"
+    ]
+  }
+}

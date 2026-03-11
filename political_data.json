@@ -1,0 +1,250 @@
+{
+    "USA": {
+        "iso3": "USA",
+        "country": "United States of America",
+        "government_type": "Federal Presidential Constitutional Republic",
+        "leader": "Joe Biden",
+        "leader_party": "Democratic Party",
+        "leader_ideology": "Center-left, Liberalism",
+        "main_opposition": "Republican Party",
+        "opposition_ideology": "Center-right, Conservatism",
+        "regime_type": "Democracy",
+        "political_stability": 0.05,
+        "extremist_groups": [
+            "Various decentralized far-right militias",
+            "Various decentralized far-left militant factions"
+        ],
+        "terror_incidents_last5y": 42
+    },
+    "CHN": {
+        "iso3": "CHN",
+        "country": "China",
+        "government_type": "Unitary Marxist–Leninist One-Party Socialist Republic",
+        "leader": "Xi Jinping",
+        "leader_party": "Chinese Communist Party",
+        "leader_ideology": "Marxism–Leninism, Socialism with Chinese characteristics",
+        "main_opposition": "None",
+        "opposition_ideology": "N/A",
+        "regime_type": "Autocracy",
+        "political_stability": -0.45,
+        "extremist_groups": [
+            "East Turkestan Islamic Movement (ETIM)"
+        ],
+        "terror_incidents_last5y": 5
+    },
+    "RUS": {
+        "iso3": "RUS",
+        "country": "Russia",
+        "government_type": "Federal Semi-Presidential Republic",
+        "leader": "Vladimir Putin",
+        "leader_party": "United Russia (Independent but supported by)",
+        "leader_ideology": "Russian nationalism, Conservatism, Statism",
+        "main_opposition": "Communist Party of the Russian Federation (CPRF) / Various systemic opposition",
+        "opposition_ideology": "Communism, Left-wing nationalism",
+        "regime_type": "Autocracy",
+        "political_stability": -0.85,
+        "extremist_groups": [
+            "various militant splinters"
+        ],
+        "terror_incidents_last5y": 68
+    },
+    "GBR": {
+        "iso3": "GBR",
+        "country": "United Kingdom",
+        "government_type": "Unitary Parliamentary Constitutional Monarchy",
+        "leader": "Rishi Sunak",
+        "leader_party": "Conservative Party",
+        "leader_ideology": "Center-right, Conservatism",
+        "main_opposition": "Labour Party",
+        "opposition_ideology": "Center-left, Social Democracy",
+        "regime_type": "Democracy",
+        "political_stability": 0.25,
+        "extremist_groups": [
+            "Dissident Irish Republican paramilitaries",
+            "Far-right groups"
+        ],
+        "terror_incidents_last5y": 31
+    },
+    "FRA": {
+        "iso3": "FRA",
+        "country": "France",
+        "government_type": "Unitary Semi-Presidential Republic",
+        "leader": "Emmanuel Macron",
+        "leader_party": "Renaissance",
+        "leader_ideology": "Centrism, Liberalism",
+        "main_opposition": "National Rally (RN) / La France Insoumise (LFI)",
+        "opposition_ideology": "Right-wing populism / Left-wing populism",
+        "regime_type": "Democracy",
+        "political_stability": 0.15,
+        "extremist_groups": [
+            "Various anarchist groups",
+            "Separatist factions (e.g., Corsican)"
+        ],
+        "terror_incidents_last5y": 28
+    },
+    "DEU": {
+        "iso3": "DEU",
+        "country": "Germany",
+        "government_type": "Federal Parliamentary Republic",
+        "leader": "Olaf Scholz",
+        "leader_party": "Social Democratic Party (SPD)",
+        "leader_ideology": "Center-left, Social Democracy",
+        "main_opposition": "Christian Democratic Union / Christian Social Union (CDU/CSU)",
+        "opposition_ideology": "Center-right, Christian Democracy",
+        "regime_type": "Democracy",
+        "political_stability": 0.65,
+        "extremist_groups": [
+            "Reichsbürger movement",
+            "Various far-right networks"
+        ],
+        "terror_incidents_last5y": 14
+    },
+    "IND": {
+        "iso3": "IND",
+        "country": "India",
+        "government_type": "Federal Parliamentary Constitutional Republic",
+        "leader": "Narendra Modi",
+        "leader_party": "Bharatiya Janata Party (BJP)",
+        "leader_ideology": "Right-wing, Hindu Nationalism, Conservatism",
+        "main_opposition": "Indian National Congress (INC)",
+        "opposition_ideology": "Center-left, Social Democracy",
+        "regime_type": "Democracy (Electoral Autocracy / Defective Democracy in some indices)",
+        "political_stability": -0.22,
+        "extremist_groups": [
+            "Naxalite-Maoist insurgents",
+            "Various ethno-nationalist separatist groups (Northeast, Kashmir)"
+        ],
+        "terror_incidents_last5y": 125
+    },
+    "JPN": {
+        "iso3": "JPN",
+        "country": "Japan",
+        "government_type": "Unitary Parliamentary Constitutional Monarchy",
+        "leader": "Fumio Kishida",
+        "leader_party": "Liberal Democratic Party (LDP)",
+        "leader_ideology": "Center-right, Conservatism",
+        "main_opposition": "Constitutional Democratic Party (CDP)",
+        "opposition_ideology": "Center-left, Liberalism",
+        "regime_type": "Democracy",
+        "political_stability": 0.98,
+        "extremist_groups": [
+            "Aum Shinrikyo remnants",
+            "Uyoku dantai (Far-right groups)"
+        ],
+        "terror_incidents_last5y": 2
+    },
+    "BRA": {
+        "iso3": "BRA",
+        "country": "Brazil",
+        "government_type": "Federal Presidential Constitutional Republic",
+        "leader": "Luiz Inácio Lula da Silva",
+        "leader_party": "Workers' Party (PT)",
+        "leader_ideology": "Center-left, Progressivism",
+        "main_opposition": "Liberal Party (PL)",
+        "opposition_ideology": "Right-wing, Conservatism",
+        "regime_type": "Democracy",
+        "political_stability": -0.35,
+        "extremist_groups": [
+            "Various organized crime syndicates (PCC, CV)"
+        ],
+        "terror_incidents_last5y": 12
+    },
+    "ZAF": {
+        "iso3": "ZAF",
+        "country": "South Africa",
+        "government_type": "Unitary Parliamentary Republic",
+        "leader": "Cyril Ramaphosa",
+        "leader_party": "African National Congress (ANC)",
+        "leader_ideology": "Center-left, Social Democracy",
+        "main_opposition": "Democratic Alliance (DA)",
+        "opposition_ideology": "Center, Liberalism",
+        "regime_type": "Democracy",
+        "political_stability": -0.42,
+        "extremist_groups": [
+            "Various vigilante groups"
+        ],
+        "terror_incidents_last5y": 21
+    },
+    "IRN": {
+        "iso3": "IRN",
+        "country": "Iran",
+        "government_type": "Unitary Islamic Republic",
+        "leader": "Ali Khamenei (Supreme Leader) / Ebrahim Raisi (President)",
+        "leader_party": "Combatant Clergy Association",
+        "leader_ideology": "Right-wing, Khomeinism, Islamic Fundamentalism",
+        "main_opposition": "Various exiled groups (NCRI, MEK)",
+        "opposition_ideology": "Various",
+        "regime_type": "Autocracy",
+        "political_stability": -1.25,
+        "extremist_groups": [
+            "Jaish ul-Adl",
+            "Kurdish separatist groups"
+        ],
+        "terror_incidents_last5y": 45
+    },
+    "ISR": {
+        "iso3": "ISR",
+        "country": "Israel",
+        "government_type": "Unitary Parliamentary Democracy",
+        "leader": "Benjamin Netanyahu",
+        "leader_party": "Likud",
+        "leader_ideology": "Right-wing, Conservatism, Revisionist Zionism",
+        "main_opposition": "Yesh Atid / National Unity",
+        "opposition_ideology": "Center, Liberalism",
+        "regime_type": "Democracy",
+        "political_stability": -0.88,
+        "extremist_groups": [
+            "Various radical settler groups"
+        ],
+        "terror_incidents_last5y": 320
+    },
+    "SAU": {
+        "iso3": "SAU",
+        "country": "Saudi Arabia",
+        "government_type": "Unitary Absolute Monarchy",
+        "leader": "Salman bin Abdulaziz (King) / Mohammed bin Salman (Crown Prince & PM)",
+        "leader_party": "None",
+        "leader_ideology": "Wahhabism, Absolute Monarchy",
+        "main_opposition": "None",
+        "opposition_ideology": "N/A",
+        "regime_type": "Autocracy",
+        "political_stability": -0.15,
+        "extremist_groups": [
+            "Al-Qaeda in the Arabian Peninsula (AQAP) remnants"
+        ],
+        "terror_incidents_last5y": 24
+    },
+    "TUR": {
+        "iso3": "TUR",
+        "country": "Turkey",
+        "government_type": "Unitary Presidential Constitutional Republic",
+        "leader": "Recep Tayyip Erdoğan",
+        "leader_party": "Justice and Development Party (AKP)",
+        "leader_ideology": "Right-wing, Conservatism, Neo-Ottomanism",
+        "main_opposition": "Republican People's Party (CHP)",
+        "opposition_ideology": "Center-left, Kemalism, Social Democracy",
+        "regime_type": "Hybrid Regime",
+        "political_stability": -0.85,
+        "extremist_groups": [
+            "Kurdistan Workers' Party (PKK)",
+            "Various leftist militant groups"
+        ],
+        "terror_incidents_last5y": 85
+    },
+    "UKR": {
+        "iso3": "UKR",
+        "country": "Ukraine",
+        "government_type": "Unitary Semi-Presidential Republic",
+        "leader": "Volodymyr Zelenskyy",
+        "leader_party": "Servant of the People",
+        "leader_ideology": "Centrism, Liberalism, Pro-Europeanism",
+        "main_opposition": "European Solidarity",
+        "opposition_ideology": "Center-right, Liberal Conservatism",
+        "regime_type": "Hybrid Regime / Democracy in transition",
+        "political_stability": -2.55,
+        "extremist_groups": [
+            "Various nationalist paramilitaries (largely integrated into Armed Forces)"
+        ],
+        "terror_incidents_last5y": 550
+    }
+}

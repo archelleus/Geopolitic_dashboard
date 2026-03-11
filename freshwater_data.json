@@ -1,0 +1,1649 @@
+[
+  {
+    "country": "Afghanistan",
+    "iso3": "AFG",
+    "lat": 33.94,
+    "lng": 67.71,
+    "totalFreshwater_billionM3": 47.15,
+    "perCapita_m3": 1206.83983064927,
+    "stressLevel": "water_stress"
+  },
+  {
+    "country": "Albania",
+    "iso3": "ALB",
+    "lat": 41.15,
+    "lng": 20.17,
+    "totalFreshwater_billionM3": 26.9,
+    "perCapita_m3": 10638.8027589698,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Algeria",
+    "iso3": "DZA",
+    "lat": 28.03,
+    "lng": 1.66,
+    "totalFreshwater_billionM3": 11.247,
+    "perCapita_m3": 255.369346564404,
+    "stressLevel": "absolute_scarcity"
+  },
+  {
+    "country": "Andorra",
+    "iso3": "AND",
+    "lat": 42.55,
+    "lng": 1.6,
+    "totalFreshwater_billionM3": 0.3156,
+    "perCapita_m3": 4078.573274748,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Angola",
+    "iso3": "AGO",
+    "lat": -11.2,
+    "lng": 17.87,
+    "totalFreshwater_billionM3": 148,
+    "perCapita_m3": 4424.36447292725,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "iso3": "ATG",
+    "lat": 17.06,
+    "lng": -61.8,
+    "totalFreshwater_billionM3": 0.052,
+    "perCapita_m3": 566.165102454108,
+    "stressLevel": "chronic_shortage"
+  },
+  {
+    "country": "Argentina",
+    "iso3": "ARG",
+    "lat": -38.42,
+    "lng": -63.62,
+    "totalFreshwater_billionM3": 292,
+    "perCapita_m3": 6461.32559183917,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Armenia",
+    "iso3": "ARM",
+    "lat": 40.07,
+    "lng": 45.04,
+    "totalFreshwater_billionM3": 6.859,
+    "perCapita_m3": 2316.05605267601,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Australia",
+    "iso3": "AUS",
+    "lat": -25.27,
+    "lng": 133.78,
+    "totalFreshwater_billionM3": 492,
+    "perCapita_m3": 19181.8489181437,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Austria",
+    "iso3": "AUT",
+    "lat": 47.52,
+    "lng": 14.55,
+    "totalFreshwater_billionM3": 55,
+    "perCapita_m3": 6168.08779409443,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Azerbaijan",
+    "iso3": "AZE",
+    "lat": 40.14,
+    "lng": 47.58,
+    "totalFreshwater_billionM3": 8.115,
+    "perCapita_m3": 804.012950999002,
+    "stressLevel": "chronic_shortage"
+  },
+  {
+    "country": "Bahamas, The",
+    "iso3": "BHS",
+    "lat": 25.03,
+    "lng": -77.4,
+    "totalFreshwater_billionM3": 0.7,
+    "perCapita_m3": 1768.28852406009,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Bahrain",
+    "iso3": "BHR",
+    "lat": 26.07,
+    "lng": 50.55,
+    "totalFreshwater_billionM3": 0.004,
+    "perCapita_m3": 2.7170147615412,
+    "stressLevel": "absolute_scarcity"
+  },
+  {
+    "country": "Bangladesh",
+    "iso3": "BGD",
+    "lat": 23.68,
+    "lng": 90.36,
+    "totalFreshwater_billionM3": 105,
+    "perCapita_m3": 631.39655826578,
+    "stressLevel": "chronic_shortage"
+  },
+  {
+    "country": "Barbados",
+    "iso3": "BRB",
+    "lat": 13.19,
+    "lng": -59.54,
+    "totalFreshwater_billionM3": 0.08,
+    "perCapita_m3": 283.992076621062,
+    "stressLevel": "absolute_scarcity"
+  },
+  {
+    "country": "Belarus",
+    "iso3": "BLR",
+    "lat": 53.71,
+    "lng": 27.95,
+    "totalFreshwater_billionM3": 34,
+    "perCapita_m3": 3624.7520243174,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Belgium",
+    "iso3": "BEL",
+    "lat": 50.5,
+    "lng": 4.47,
+    "totalFreshwater_billionM3": 12,
+    "perCapita_m3": 1039.9871596252,
+    "stressLevel": "water_stress"
+  },
+  {
+    "country": "Belize",
+    "iso3": "BLZ",
+    "lat": 17.19,
+    "lng": -88.5,
+    "totalFreshwater_billionM3": 15.26,
+    "perCapita_m3": 39046.9074644586,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Benin",
+    "iso3": "BEN",
+    "lat": 9.31,
+    "lng": 2.32,
+    "totalFreshwater_billionM3": 10.3,
+    "perCapita_m3": 788.054079484359,
+    "stressLevel": "chronic_shortage"
+  },
+  {
+    "country": "Bhutan",
+    "iso3": "BTN",
+    "lat": 27.51,
+    "lng": 90.43,
+    "totalFreshwater_billionM3": 78,
+    "perCapita_m3": 101297.911964322,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Bolivia",
+    "iso3": "BOL",
+    "lat": -16.29,
+    "lng": -63.59,
+    "totalFreshwater_billionM3": 303.5,
+    "perCapita_m3": 25684.861224314,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "iso3": "BIH",
+    "lat": 43.92,
+    "lng": 17.68,
+    "totalFreshwater_billionM3": 35.5,
+    "perCapita_m3": 10759.6983526144,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Botswana",
+    "iso3": "BWA",
+    "lat": -22.33,
+    "lng": 24.68,
+    "totalFreshwater_billionM3": 2.4,
+    "perCapita_m3": 1014.41569233448,
+    "stressLevel": "water_stress"
+  },
+  {
+    "country": "Brazil",
+    "iso3": "BRA",
+    "lat": -14.24,
+    "lng": -51.93,
+    "totalFreshwater_billionM3": 5661,
+    "perCapita_m3": 27130.1502751532,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Brunei Darussalam",
+    "iso3": "BRN",
+    "lat": 4.54,
+    "lng": 114.73,
+    "totalFreshwater_billionM3": 8.5,
+    "perCapita_m3": 18998.4890613405,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Bulgaria",
+    "iso3": "BGR",
+    "lat": 42.73,
+    "lng": 25.49,
+    "totalFreshwater_billionM3": 21,
+    "perCapita_m3": 3205.76622697802,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Burkina Faso",
+    "iso3": "BFA",
+    "lat": 12.24,
+    "lng": -1.56,
+    "totalFreshwater_billionM3": 12.5,
+    "perCapita_m3": 581.972178005269,
+    "stressLevel": "chronic_shortage"
+  },
+  {
+    "country": "Burundi",
+    "iso3": "BDI",
+    "lat": -3.37,
+    "lng": 29.92,
+    "totalFreshwater_billionM3": 10.06,
+    "perCapita_m3": 797.334651339665,
+    "stressLevel": "chronic_shortage"
+  },
+  {
+    "country": "Cabo Verde",
+    "iso3": "CPV",
+    "lat": 16,
+    "lng": -24.01,
+    "totalFreshwater_billionM3": 0.3,
+    "perCapita_m3": 582.887586243076,
+    "stressLevel": "chronic_shortage"
+  },
+  {
+    "country": "Cambodia",
+    "iso3": "KHM",
+    "lat": 12.57,
+    "lng": 104.99,
+    "totalFreshwater_billionM3": 120.6,
+    "perCapita_m3": 7210.55797880526,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Cameroon",
+    "iso3": "CMR",
+    "lat": 7.37,
+    "lng": 12.35,
+    "totalFreshwater_billionM3": 273,
+    "perCapita_m3": 10415.6500597965,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Canada",
+    "iso3": "CAN",
+    "lat": 56.13,
+    "lng": -106.35,
+    "totalFreshwater_billionM3": 2850,
+    "perCapita_m3": 74943.5201965424,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Central African Republic",
+    "iso3": "CAF",
+    "lat": 6.61,
+    "lng": 20.94,
+    "totalFreshwater_billionM3": 141,
+    "perCapita_m3": 28050.6136519353,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Chad",
+    "iso3": "TCD",
+    "lat": 15.45,
+    "lng": 18.73,
+    "totalFreshwater_billionM3": 15,
+    "perCapita_m3": 870.843514703525,
+    "stressLevel": "chronic_shortage"
+  },
+  {
+    "country": "Chile",
+    "iso3": "CHL",
+    "lat": -35.68,
+    "lng": -71.54,
+    "totalFreshwater_billionM3": 885,
+    "perCapita_m3": 45687.738298983,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "China",
+    "iso3": "CHN",
+    "lat": 35.86,
+    "lng": 104.2,
+    "totalFreshwater_billionM3": 2812.9,
+    "perCapita_m3": 1993.40939692439,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Colombia",
+    "iso3": "COL",
+    "lat": 4.57,
+    "lng": -74.3,
+    "totalFreshwater_billionM3": 2145,
+    "perCapita_m3": 42366.1885660392,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Comoros",
+    "iso3": "COM",
+    "lat": -11.88,
+    "lng": 43.87,
+    "totalFreshwater_billionM3": 1.2,
+    "perCapita_m3": 1495.95531082835,
+    "stressLevel": "water_stress"
+  },
+  {
+    "country": "Congo, Dem. Rep.",
+    "iso3": "COD",
+    "lat": -4.04,
+    "lng": 21.76,
+    "totalFreshwater_billionM3": 900,
+    "perCapita_m3": 9375.97685958906,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Congo, Rep.",
+    "iso3": "COG",
+    "lat": -0.23,
+    "lng": 15.83,
+    "totalFreshwater_billionM3": 222,
+    "perCapita_m3": 38589.9644190098,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Costa Rica",
+    "iso3": "CRI",
+    "lat": 9.75,
+    "lng": -83.75,
+    "totalFreshwater_billionM3": 113,
+    "perCapita_m3": 22445.9311287324,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "iso3": "CIV",
+    "lat": 7.54,
+    "lng": -5.55,
+    "totalFreshwater_billionM3": 76.84,
+    "perCapita_m3": 2657.40296821952,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Croatia",
+    "iso3": "HRV",
+    "lat": 45.1,
+    "lng": 15.2,
+    "totalFreshwater_billionM3": 37.7,
+    "perCapita_m3": 9631.58300815031,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Cuba",
+    "iso3": "CUB",
+    "lat": 21.52,
+    "lng": -77.78,
+    "totalFreshwater_billionM3": 38.12,
+    "perCapita_m3": 3410.77242184705,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Cyprus",
+    "iso3": "CYP",
+    "lat": 35.13,
+    "lng": 33.43,
+    "totalFreshwater_billionM3": 0.78,
+    "perCapita_m3": 598.964712531494,
+    "stressLevel": "chronic_shortage"
+  },
+  {
+    "country": "Czechia",
+    "iso3": "CZE",
+    "lat": 49.82,
+    "lng": 15.47,
+    "totalFreshwater_billionM3": 13.15,
+    "perCapita_m3": 1229.2180359844,
+    "stressLevel": "water_stress"
+  },
+  {
+    "country": "Denmark",
+    "iso3": "DNK",
+    "lat": 56.26,
+    "lng": 9.5,
+    "totalFreshwater_billionM3": 6,
+    "perCapita_m3": 1028.91173377801,
+    "stressLevel": "water_stress"
+  },
+  {
+    "country": "Djibouti",
+    "iso3": "DJI",
+    "lat": 11.83,
+    "lng": 42.59,
+    "totalFreshwater_billionM3": 0.3,
+    "perCapita_m3": 271.4470298266,
+    "stressLevel": "absolute_scarcity"
+  },
+  {
+    "country": "Dominica",
+    "iso3": "DMA",
+    "lat": 15.41,
+    "lng": -61.37,
+    "totalFreshwater_billionM3": 0.2,
+    "perCapita_m3": 2959.76203513238,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Dominican Republic",
+    "iso3": "DOM",
+    "lat": 18.74,
+    "lng": -70.16,
+    "totalFreshwater_billionM3": 23.5,
+    "perCapita_m3": 2134.75286829029,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Ecuador",
+    "iso3": "ECU",
+    "lat": -1.83,
+    "lng": -78.18,
+    "totalFreshwater_billionM3": 442.4,
+    "perCapita_m3": 25213.6305205754,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Egypt, Arab Rep.",
+    "iso3": "EGY",
+    "lat": 26.82,
+    "lng": 30.8,
+    "totalFreshwater_billionM3": 1,
+    "perCapita_m3": 9.14786502917931,
+    "stressLevel": "absolute_scarcity"
+  },
+  {
+    "country": "El Salvador",
+    "iso3": "SLV",
+    "lat": 13.79,
+    "lng": -88.9,
+    "totalFreshwater_billionM3": 15.63,
+    "perCapita_m3": 2506.94783832288,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "iso3": "GNQ",
+    "lat": 1.65,
+    "lng": 10.27,
+    "totalFreshwater_billionM3": 26,
+    "perCapita_m3": 15147.3840467751,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Eritrea",
+    "iso3": "ERI",
+    "lat": 15.18,
+    "lng": 39.78,
+    "totalFreshwater_billionM3": 2.8,
+    "perCapita_m3": 850.735171913829,
+    "stressLevel": "chronic_shortage"
+  },
+  {
+    "country": "Estonia",
+    "iso3": "EST",
+    "lat": 58.6,
+    "lng": 25.01,
+    "totalFreshwater_billionM3": 12.71,
+    "perCapita_m3": 9559.8267648072,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Eswatini",
+    "iso3": "SWZ",
+    "lat": -26.52,
+    "lng": 31.47,
+    "totalFreshwater_billionM3": 2.64,
+    "perCapita_m3": 2213.41142874869,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Ethiopia",
+    "iso3": "ETH",
+    "lat": 9.15,
+    "lng": 40.49,
+    "totalFreshwater_billionM3": 122,
+    "perCapita_m3": 1025.91985677217,
+    "stressLevel": "water_stress"
+  },
+  {
+    "country": "Fiji",
+    "iso3": "FJI",
+    "lat": -17.71,
+    "lng": 178.07,
+    "totalFreshwater_billionM3": 28.55,
+    "perCapita_m3": 31203.447571104,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Finland",
+    "iso3": "FIN",
+    "lat": 61.92,
+    "lng": 25.75,
+    "totalFreshwater_billionM3": 107,
+    "perCapita_m3": 19350.6045617151,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "France",
+    "iso3": "FRA",
+    "lat": 46.23,
+    "lng": 2.21,
+    "totalFreshwater_billionM3": 200,
+    "perCapita_m3": 2958.5313022227,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Gabon",
+    "iso3": "GAB",
+    "lat": -0.8,
+    "lng": 11.61,
+    "totalFreshwater_billionM3": 164,
+    "perCapita_m3": 70612.3772302639,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Gambia, The",
+    "iso3": "GMB",
+    "lat": 13.44,
+    "lng": -15.31,
+    "totalFreshwater_billionM3": 3,
+    "perCapita_m3": 1192.49538802409,
+    "stressLevel": "water_stress"
+  },
+  {
+    "country": "Georgia",
+    "iso3": "GEO",
+    "lat": 42.32,
+    "lng": 43.36,
+    "totalFreshwater_billionM3": 58.13,
+    "perCapita_m3": 15614.9434982416,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Germany",
+    "iso3": "DEU",
+    "lat": 51.17,
+    "lng": 10.45,
+    "totalFreshwater_billionM3": 107,
+    "perCapita_m3": 1286.66281044603,
+    "stressLevel": "water_stress"
+  },
+  {
+    "country": "Ghana",
+    "iso3": "GHA",
+    "lat": 7.95,
+    "lng": -1.02,
+    "totalFreshwater_billionM3": 30.3,
+    "perCapita_m3": 950.206393923145,
+    "stressLevel": "chronic_shortage"
+  },
+  {
+    "country": "Greece",
+    "iso3": "GRC",
+    "lat": 39.07,
+    "lng": 21.82,
+    "totalFreshwater_billionM3": 58,
+    "perCapita_m3": 5421.2705794469,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Grenada",
+    "iso3": "GRD",
+    "lat": 12.12,
+    "lng": -61.68,
+    "totalFreshwater_billionM3": 0.2,
+    "perCapita_m3": 1719.08441564023,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Guatemala",
+    "iso3": "GTM",
+    "lat": 15.78,
+    "lng": -90.23,
+    "totalFreshwater_billionM3": 109.2,
+    "perCapita_m3": 6291.29200496044,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Guinea",
+    "iso3": "GIN",
+    "lat": 9.95,
+    "lng": -9.7,
+    "totalFreshwater_billionM3": 226,
+    "perCapita_m3": 16902.0198138041,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "iso3": "GNB",
+    "lat": 11.8,
+    "lng": -15.18,
+    "totalFreshwater_billionM3": 16,
+    "perCapita_m3": 7947.3290765452,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Guyana",
+    "iso3": "GUY",
+    "lat": 4.86,
+    "lng": -58.93,
+    "totalFreshwater_billionM3": 241,
+    "perCapita_m3": 298459.034949429,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Haiti",
+    "iso3": "HTI",
+    "lat": 18.97,
+    "lng": -72.29,
+    "totalFreshwater_billionM3": 13.007,
+    "perCapita_m3": 1156.81037310359,
+    "stressLevel": "water_stress"
+  },
+  {
+    "country": "Honduras",
+    "iso3": "HND",
+    "lat": 15.2,
+    "lng": -86.24,
+    "totalFreshwater_billionM3": 90.66,
+    "perCapita_m3": 8958.8167168002,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Hungary",
+    "iso3": "HUN",
+    "lat": 47.16,
+    "lng": 19.5,
+    "totalFreshwater_billionM3": 6,
+    "perCapita_m3": 620.448814058626,
+    "stressLevel": "chronic_shortage"
+  },
+  {
+    "country": "Iceland",
+    "iso3": "ISL",
+    "lat": 64.96,
+    "lng": -19.02,
+    "totalFreshwater_billionM3": 170,
+    "perCapita_m3": 463894.035687095,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "India",
+    "iso3": "IND",
+    "lat": 20.59,
+    "lng": 78.96,
+    "totalFreshwater_billionM3": 1446,
+    "perCapita_m3": 1030.92952923284,
+    "stressLevel": "water_stress"
+  },
+  {
+    "country": "Indonesia",
+    "iso3": "IDN",
+    "lat": -0.79,
+    "lng": 113.92,
+    "totalFreshwater_billionM3": 2018.7,
+    "perCapita_m3": 7345.67248629119,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Iran, Islamic Rep.",
+    "iso3": "IRN",
+    "lat": 32.43,
+    "lng": 53.69,
+    "totalFreshwater_billionM3": 128.5,
+    "perCapita_m3": 1464.83078645237,
+    "stressLevel": "water_stress"
+  },
+  {
+    "country": "Iraq",
+    "iso3": "IRQ",
+    "lat": 33.22,
+    "lng": 43.68,
+    "totalFreshwater_billionM3": 35.2,
+    "perCapita_m3": 835.774868368426,
+    "stressLevel": "chronic_shortage"
+  },
+  {
+    "country": "Ireland",
+    "iso3": "IRL",
+    "lat": 53.41,
+    "lng": -8.24,
+    "totalFreshwater_billionM3": 49,
+    "perCapita_m3": 9722.71028684575,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Israel",
+    "iso3": "ISR",
+    "lat": 31.05,
+    "lng": 34.85,
+    "totalFreshwater_billionM3": 0.75,
+    "perCapita_m3": 81.3881563954813,
+    "stressLevel": "absolute_scarcity"
+  },
+  {
+    "country": "Italy",
+    "iso3": "ITA",
+    "lat": 41.87,
+    "lng": 12.57,
+    "totalFreshwater_billionM3": 182.5,
+    "perCapita_m3": 3070.38236657704,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Jamaica",
+    "iso3": "JAM",
+    "lat": 18.11,
+    "lng": -77.3,
+    "totalFreshwater_billionM3": 10.823,
+    "perCapita_m3": 3823.38322254365,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Japan",
+    "iso3": "JPN",
+    "lat": 36.2,
+    "lng": 138.25,
+    "totalFreshwater_billionM3": 430,
+    "perCapita_m3": 3405.64386469298,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Jordan",
+    "iso3": "JOR",
+    "lat": 30.59,
+    "lng": 36.24,
+    "totalFreshwater_billionM3": 0.682,
+    "perCapita_m3": 62.7690463559532,
+    "stressLevel": "absolute_scarcity"
+  },
+  {
+    "country": "Kazakhstan",
+    "iso3": "KAZ",
+    "lat": 48.02,
+    "lng": 66.92,
+    "totalFreshwater_billionM3": 64.35,
+    "perCapita_m3": 3303.02913179302,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Kenya",
+    "iso3": "KEN",
+    "lat": -0.02,
+    "lng": 37.91,
+    "totalFreshwater_billionM3": 20.7,
+    "perCapita_m3": 396.420085330285,
+    "stressLevel": "absolute_scarcity"
+  },
+  {
+    "country": "Korea, Dem. People's Rep.",
+    "iso3": "PRK",
+    "lat": 40.34,
+    "lng": 127.51,
+    "totalFreshwater_billionM3": 67,
+    "perCapita_m3": 2563.48332542097,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Korea, Rep.",
+    "iso3": "KOR",
+    "lat": 35.91,
+    "lng": 127.77,
+    "totalFreshwater_billionM3": 64.85,
+    "perCapita_m3": 1251.05527042577,
+    "stressLevel": "water_stress"
+  },
+  {
+    "country": "Kuwait",
+    "iso3": "KWT",
+    "lat": 29.31,
+    "lng": 47.48,
+    "totalFreshwater_billionM3": 0,
+    "perCapita_m3": null,
+    "stressLevel": "no_data"
+  },
+  {
+    "country": "Kyrgyz Republic",
+    "iso3": "KGZ",
+    "lat": 41.2,
+    "lng": 74.77,
+    "totalFreshwater_billionM3": 48.93,
+    "perCapita_m3": 7274.11011453639,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Lao PDR",
+    "iso3": "LAO",
+    "lat": 19.86,
+    "lng": 102.5,
+    "totalFreshwater_billionM3": 190.4,
+    "perCapita_m3": 25916.986965144,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Latvia",
+    "iso3": "LVA",
+    "lat": 56.88,
+    "lng": 24.6,
+    "totalFreshwater_billionM3": 16.94,
+    "perCapita_m3": 8913.68302964194,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Lebanon",
+    "iso3": "LBN",
+    "lat": 33.85,
+    "lng": 35.86,
+    "totalFreshwater_billionM3": 4.8,
+    "perCapita_m3": 841.751136977812,
+    "stressLevel": "chronic_shortage"
+  },
+  {
+    "country": "Lesotho",
+    "iso3": "LSO",
+    "lat": -29.61,
+    "lng": 28.23,
+    "totalFreshwater_billionM3": 5.23,
+    "perCapita_m3": 2339.28382132523,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Liberia",
+    "iso3": "LBR",
+    "lat": 6.43,
+    "lng": -9.43,
+    "totalFreshwater_billionM3": 200,
+    "perCapita_m3": 38839.0012706179,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Libya",
+    "iso3": "LBY",
+    "lat": 26.34,
+    "lng": 17.23,
+    "totalFreshwater_billionM3": 0.7,
+    "perCapita_m3": 99.3556220165813,
+    "stressLevel": "absolute_scarcity"
+  },
+  {
+    "country": "Lithuania",
+    "iso3": "LTU",
+    "lat": 55.17,
+    "lng": 23.88,
+    "totalFreshwater_billionM3": 15.46,
+    "perCapita_m3": 5501.05697863875,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Luxembourg",
+    "iso3": "LUX",
+    "lat": 49.82,
+    "lng": 6.13,
+    "totalFreshwater_billionM3": 1,
+    "perCapita_m3": 1586.24660741507,
+    "stressLevel": "water_stress"
+  },
+  {
+    "country": "Madagascar",
+    "iso3": "MDG",
+    "lat": -18.77,
+    "lng": 46.87,
+    "totalFreshwater_billionM3": 337,
+    "perCapita_m3": 11639.3302432351,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Malawi",
+    "iso3": "MWI",
+    "lat": -13.25,
+    "lng": 34.3,
+    "totalFreshwater_billionM3": 16.14,
+    "perCapita_m3": 826.25640118342,
+    "stressLevel": "chronic_shortage"
+  },
+  {
+    "country": "Malaysia",
+    "iso3": "MYS",
+    "lat": 4.21,
+    "lng": 101.98,
+    "totalFreshwater_billionM3": 580,
+    "perCapita_m3": 17114.4161868384,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Maldives",
+    "iso3": "MDV",
+    "lat": 3.2,
+    "lng": 73.22,
+    "totalFreshwater_billionM3": 0.03,
+    "perCapita_m3": 59.7469120804273,
+    "stressLevel": "absolute_scarcity"
+  },
+  {
+    "country": "Mali",
+    "iso3": "MLI",
+    "lat": 17.57,
+    "lng": -4,
+    "totalFreshwater_billionM3": 60,
+    "perCapita_m3": 2763.21512237635,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Malta",
+    "iso3": "MLT",
+    "lat": 35.94,
+    "lng": 14.38,
+    "totalFreshwater_billionM3": 0.0505,
+    "perCapita_m3": 97.9650429688258,
+    "stressLevel": "absolute_scarcity"
+  },
+  {
+    "country": "Mauritania",
+    "iso3": "MRT",
+    "lat": 21.01,
+    "lng": -10.94,
+    "totalFreshwater_billionM3": 0.4,
+    "perCapita_m3": 86.9540454391408,
+    "stressLevel": "absolute_scarcity"
+  },
+  {
+    "country": "Mauritius",
+    "iso3": "MUS",
+    "lat": -20.35,
+    "lng": 57.55,
+    "totalFreshwater_billionM3": 2.751,
+    "perCapita_m3": 2172.96175239768,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Mexico",
+    "iso3": "MEX",
+    "lat": 23.63,
+    "lng": -102.55,
+    "totalFreshwater_billionM3": 409,
+    "perCapita_m3": 3225.57611510256,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Moldova",
+    "iso3": "MDA",
+    "lat": 47.41,
+    "lng": 28.37,
+    "totalFreshwater_billionM3": 1.62,
+    "perCapita_m3": 614.7704287834,
+    "stressLevel": "chronic_shortage"
+  },
+  {
+    "country": "Mongolia",
+    "iso3": "MNG",
+    "lat": 46.86,
+    "lng": 103.85,
+    "totalFreshwater_billionM3": 34.8,
+    "perCapita_m3": 10459.2324366044,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Morocco",
+    "iso3": "MAR",
+    "lat": 31.79,
+    "lng": -7.09,
+    "totalFreshwater_billionM3": 29,
+    "perCapita_m3": 792.69175377529,
+    "stressLevel": "chronic_shortage"
+  },
+  {
+    "country": "Mozambique",
+    "iso3": "MOZ",
+    "lat": -18.67,
+    "lng": 35.53,
+    "totalFreshwater_billionM3": 100.3,
+    "perCapita_m3": 3258.21909317688,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Myanmar",
+    "iso3": "MMR",
+    "lat": 21.91,
+    "lng": 95.96,
+    "totalFreshwater_billionM3": 1002.8,
+    "perCapita_m3": 18914.8582775762,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Namibia",
+    "iso3": "NAM",
+    "lat": -22.96,
+    "lng": 18.49,
+    "totalFreshwater_billionM3": 6.16,
+    "perCapita_m3": 2257.43395723042,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Nauru",
+    "iso3": "NRU",
+    "lat": -0.52,
+    "lng": 166.93,
+    "totalFreshwater_billionM3": 0.01,
+    "perCapita_m3": 858.885167053165,
+    "stressLevel": "chronic_shortage"
+  },
+  {
+    "country": "Nepal",
+    "iso3": "NPL",
+    "lat": 28.39,
+    "lng": 84.12,
+    "totalFreshwater_billionM3": 198.2,
+    "perCapita_m3": 6842.36941517488,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Netherlands",
+    "iso3": "NLD",
+    "lat": 52.13,
+    "lng": 5.29,
+    "totalFreshwater_billionM3": 11,
+    "perCapita_m3": 630.679700713815,
+    "stressLevel": "chronic_shortage"
+  },
+  {
+    "country": "New Zealand",
+    "iso3": "NZL",
+    "lat": -40.9,
+    "lng": 174.89,
+    "totalFreshwater_billionM3": 327,
+    "perCapita_m3": 64466.5247220251,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Nicaragua",
+    "iso3": "NIC",
+    "lat": 12.87,
+    "lng": -85.21,
+    "totalFreshwater_billionM3": 156.21,
+    "perCapita_m3": 23793.3963691043,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Niger",
+    "iso3": "NER",
+    "lat": 17.61,
+    "lng": 8.08,
+    "totalFreshwater_billionM3": 3.5,
+    "perCapita_m3": 147.569656356228,
+    "stressLevel": "absolute_scarcity"
+  },
+  {
+    "country": "Nigeria",
+    "iso3": "NGA",
+    "lat": 9.08,
+    "lng": 8.68,
+    "totalFreshwater_billionM3": 221,
+    "perCapita_m3": 1032.72871023806,
+    "stressLevel": "water_stress"
+  },
+  {
+    "country": "North Macedonia",
+    "iso3": "MKD",
+    "lat": 41.51,
+    "lng": 21.75,
+    "totalFreshwater_billionM3": 5.4,
+    "perCapita_m3": 2909.28838806028,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Norway",
+    "iso3": "NOR",
+    "lat": 60.47,
+    "lng": 8.47,
+    "totalFreshwater_billionM3": 382,
+    "perCapita_m3": 71010.6469497488,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Oman",
+    "iso3": "OMN",
+    "lat": 21.47,
+    "lng": 55.98,
+    "totalFreshwater_billionM3": 1.4,
+    "perCapita_m3": 309.563499986844,
+    "stressLevel": "absolute_scarcity"
+  },
+  {
+    "country": "Pakistan",
+    "iso3": "PAK",
+    "lat": 30.38,
+    "lng": 69.35,
+    "totalFreshwater_billionM3": 55,
+    "perCapita_m3": 234.040814318035,
+    "stressLevel": "absolute_scarcity"
+  },
+  {
+    "country": "Panama",
+    "iso3": "PAN",
+    "lat": 8.54,
+    "lng": -80.78,
+    "totalFreshwater_billionM3": 136.6,
+    "perCapita_m3": 31817.3062387775,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Papua New Guinea",
+    "iso3": "PNG",
+    "lat": -6.31,
+    "lng": 143.96,
+    "totalFreshwater_billionM3": 801,
+    "perCapita_m3": 81603.5785767073,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Paraguay",
+    "iso3": "PRY",
+    "lat": -23.44,
+    "lng": -58.44,
+    "totalFreshwater_billionM3": 117,
+    "perCapita_m3": 17717.235644837,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Peru",
+    "iso3": "PER",
+    "lat": -9.19,
+    "lng": -75.02,
+    "totalFreshwater_billionM3": 1641,
+    "perCapita_m3": 49971.7116261334,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Philippines",
+    "iso3": "PHL",
+    "lat": 12.88,
+    "lng": 121.77,
+    "totalFreshwater_billionM3": 479,
+    "perCapita_m3": 4273.68485066335,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Poland",
+    "iso3": "POL",
+    "lat": 51.92,
+    "lng": 19.15,
+    "totalFreshwater_billionM3": 53.6,
+    "perCapita_m3": 1428.733341529,
+    "stressLevel": "water_stress"
+  },
+  {
+    "country": "Portugal",
+    "iso3": "PRT",
+    "lat": 39.4,
+    "lng": -8.22,
+    "totalFreshwater_billionM3": 38,
+    "perCapita_m3": 3690.36623097361,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Puerto Rico (US)",
+    "iso3": "PRI",
+    "lat": 18.22,
+    "lng": -66.59,
+    "totalFreshwater_billionM3": 7.1,
+    "perCapita_m3": 2163.58533515765,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Qatar",
+    "iso3": "QAT",
+    "lat": 25.35,
+    "lng": 51.18,
+    "totalFreshwater_billionM3": 0.056,
+    "perCapita_m3": 20.041887544969,
+    "stressLevel": "absolute_scarcity"
+  },
+  {
+    "country": "Romania",
+    "iso3": "ROU",
+    "lat": 45.94,
+    "lng": 24.97,
+    "totalFreshwater_billionM3": 42.38,
+    "perCapita_m3": 2199.8157303954,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Russian Federation",
+    "iso3": "RUS",
+    "lat": 61.52,
+    "lng": 105.32,
+    "totalFreshwater_billionM3": 4312,
+    "perCapita_m3": 29687.738691278,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Rwanda",
+    "iso3": "RWA",
+    "lat": -1.94,
+    "lng": 29.87,
+    "totalFreshwater_billionM3": 9.5,
+    "perCapita_m3": 727.086982640301,
+    "stressLevel": "chronic_shortage"
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "iso3": "STP",
+    "lat": 0.19,
+    "lng": 6.61,
+    "totalFreshwater_billionM3": 2.18,
+    "perCapita_m3": 10025.9847770598,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Saudi Arabia",
+    "iso3": "SAU",
+    "lat": 23.89,
+    "lng": 45.08,
+    "totalFreshwater_billionM3": 2.4,
+    "perCapita_m3": 76.0636792445355,
+    "stressLevel": "absolute_scarcity"
+  },
+  {
+    "country": "Senegal",
+    "iso3": "SEN",
+    "lat": 14.5,
+    "lng": -14.45,
+    "totalFreshwater_billionM3": 25.8,
+    "perCapita_m3": 1536.70042662497,
+    "stressLevel": "water_stress"
+  },
+  {
+    "country": "Serbia",
+    "iso3": "SRB",
+    "lat": 44.02,
+    "lng": 21.01,
+    "totalFreshwater_billionM3": 8.407,
+    "perCapita_m3": 1218.56014805354,
+    "stressLevel": "water_stress"
+  },
+  {
+    "country": "Sierra Leone",
+    "iso3": "SLE",
+    "lat": 8.46,
+    "lng": -11.78,
+    "totalFreshwater_billionM3": 160,
+    "perCapita_m3": 20221.0208127384,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Singapore",
+    "iso3": "SGP",
+    "lat": 1.35,
+    "lng": 103.82,
+    "totalFreshwater_billionM3": 0.6,
+    "perCapita_m3": 105.525917429135,
+    "stressLevel": "absolute_scarcity"
+  },
+  {
+    "country": "Slovak Republic",
+    "iso3": "SVK",
+    "lat": 48.67,
+    "lng": 19.7,
+    "totalFreshwater_billionM3": 12.6,
+    "perCapita_m3": 2308.18818768208,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Slovenia",
+    "iso3": "SVN",
+    "lat": 46.15,
+    "lng": 14.99,
+    "totalFreshwater_billionM3": 18.67,
+    "perCapita_m3": 8880.24699167959,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Solomon Islands",
+    "iso3": "SLB",
+    "lat": -9.65,
+    "lng": 160.16,
+    "totalFreshwater_billionM3": 44.7,
+    "perCapita_m3": 60040.4567910189,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Somalia, Fed. Rep.",
+    "iso3": "SOM",
+    "lat": 5.15,
+    "lng": 46.2,
+    "totalFreshwater_billionM3": 6,
+    "perCapita_m3": 360.334585075626,
+    "stressLevel": "absolute_scarcity"
+  },
+  {
+    "country": "South Africa",
+    "iso3": "ZAF",
+    "lat": -30.56,
+    "lng": 22.94,
+    "totalFreshwater_billionM3": 44.8,
+    "perCapita_m3": 739.733135657266,
+    "stressLevel": "chronic_shortage"
+  },
+  {
+    "country": "South Sudan",
+    "iso3": "SSD",
+    "lat": 6.88,
+    "lng": 31.31,
+    "totalFreshwater_billionM3": 26,
+    "perCapita_m3": 2430.25472714923,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Spain",
+    "iso3": "ESP",
+    "lat": 40.46,
+    "lng": -3.75,
+    "totalFreshwater_billionM3": 111.2,
+    "perCapita_m3": 2348.00152974833,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Sri Lanka",
+    "iso3": "LKA",
+    "lat": 7.87,
+    "lng": 80.77,
+    "totalFreshwater_billionM3": 52.8,
+    "perCapita_m3": 2408.86901774716,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "St. Kitts and Nevis",
+    "iso3": "KNA",
+    "lat": 17.36,
+    "lng": -62.78,
+    "totalFreshwater_billionM3": 0.024,
+    "perCapita_m3": 512.054619159377,
+    "stressLevel": "chronic_shortage"
+  },
+  {
+    "country": "St. Lucia",
+    "iso3": "LCA",
+    "lat": 13.91,
+    "lng": -60.98,
+    "totalFreshwater_billionM3": 0.3,
+    "perCapita_m3": 1683.02945301543,
+    "stressLevel": "water_stress"
+  },
+  {
+    "country": "St. Vincent and the Grenadines",
+    "iso3": "VCT",
+    "lat": 12.98,
+    "lng": -61.29,
+    "totalFreshwater_billionM3": 0.1,
+    "perCapita_m3": 965.940923053146,
+    "stressLevel": "chronic_shortage"
+  },
+  {
+    "country": "Sudan",
+    "iso3": "SDN",
+    "lat": 12.86,
+    "lng": 30.22,
+    "totalFreshwater_billionM3": 4,
+    "perCapita_m3": 85.4897572477735,
+    "stressLevel": "absolute_scarcity"
+  },
+  {
+    "country": "Suriname",
+    "iso3": "SUR",
+    "lat": 3.92,
+    "lng": -56.03,
+    "totalFreshwater_billionM3": 99,
+    "perCapita_m3": 161680.959372351,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Sweden",
+    "iso3": "SWE",
+    "lat": 60.13,
+    "lng": 18.64,
+    "totalFreshwater_billionM3": 171,
+    "perCapita_m3": 16516.2464811219,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Switzerland",
+    "iso3": "CHE",
+    "lat": 46.82,
+    "lng": 8.23,
+    "totalFreshwater_billionM3": 40.4,
+    "perCapita_m3": 4676.91814710227,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Syrian Arab Republic",
+    "iso3": "SYR",
+    "lat": 34.8,
+    "lng": 38.99,
+    "totalFreshwater_billionM3": 7.132,
+    "perCapita_m3": 338.821542380081,
+    "stressLevel": "absolute_scarcity"
+  },
+  {
+    "country": "Tajikistan",
+    "iso3": "TJK",
+    "lat": 38.86,
+    "lng": 71.28,
+    "totalFreshwater_billionM3": 63.46,
+    "perCapita_m3": 6509.17859828029,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Tanzania",
+    "iso3": "TZA",
+    "lat": -6.37,
+    "lng": 34.89,
+    "totalFreshwater_billionM3": 84,
+    "perCapita_m3": 1377.66352792273,
+    "stressLevel": "water_stress"
+  },
+  {
+    "country": "Thailand",
+    "iso3": "THA",
+    "lat": 15.87,
+    "lng": 100.99,
+    "totalFreshwater_billionM3": 224.51,
+    "perCapita_m3": 3133.79884760623,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Timor-Leste",
+    "iso3": "TLS",
+    "lat": -8.87,
+    "lng": 125.73,
+    "totalFreshwater_billionM3": 8.215,
+    "perCapita_m3": 6195.07666737302,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Togo",
+    "iso3": "TGO",
+    "lat": 8.62,
+    "lng": 1.21,
+    "totalFreshwater_billionM3": 11.5,
+    "perCapita_m3": 1326.45575635661,
+    "stressLevel": "water_stress"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "iso3": "TTO",
+    "lat": 10.69,
+    "lng": -61.22,
+    "totalFreshwater_billionM3": 3.84,
+    "perCapita_m3": 2809.63617406574,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Tunisia",
+    "iso3": "TUN",
+    "lat": 33.89,
+    "lng": 9.54,
+    "totalFreshwater_billionM3": 4.195,
+    "perCapita_m3": 350.340740819924,
+    "stressLevel": "absolute_scarcity"
+  },
+  {
+    "country": "Turkiye",
+    "iso3": "TUR",
+    "lat": 38.96,
+    "lng": 35.24,
+    "totalFreshwater_billionM3": 227,
+    "perCapita_m3": 2722.32261369834,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Turkmenistan",
+    "iso3": "TKM",
+    "lat": 38.97,
+    "lng": 59.56,
+    "totalFreshwater_billionM3": 1.405,
+    "perCapita_m3": 202.160833115585,
+    "stressLevel": "absolute_scarcity"
+  },
+  {
+    "country": "Uganda",
+    "iso3": "UGA",
+    "lat": 1.37,
+    "lng": 32.29,
+    "totalFreshwater_billionM3": 39,
+    "perCapita_m3": 877.249176915336,
+    "stressLevel": "chronic_shortage"
+  },
+  {
+    "country": "Ukraine",
+    "iso3": "UKR",
+    "lat": 48.38,
+    "lng": 31.17,
+    "totalFreshwater_billionM3": 55.1,
+    "perCapita_m3": 1233.21357956602,
+    "stressLevel": "water_stress"
+  },
+  {
+    "country": "United Arab Emirates",
+    "iso3": "ARE",
+    "lat": 23.42,
+    "lng": 53.85,
+    "totalFreshwater_billionM3": 0.15,
+    "perCapita_m3": 15.9556848935192,
+    "stressLevel": "absolute_scarcity"
+  },
+  {
+    "country": "United Kingdom",
+    "iso3": "GBR",
+    "lat": 55.38,
+    "lng": -3.44,
+    "totalFreshwater_billionM3": 145,
+    "perCapita_m3": 2172.47992328898,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "United States",
+    "iso3": "USA",
+    "lat": 37.09,
+    "lng": -95.71,
+    "totalFreshwater_billionM3": 2818,
+    "perCapita_m3": 8498.76161763824,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Uruguay",
+    "iso3": "URY",
+    "lat": -32.52,
+    "lng": -55.77,
+    "totalFreshwater_billionM3": 92.2,
+    "perCapita_m3": 27125.8805613939,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Uzbekistan",
+    "iso3": "UZB",
+    "lat": 41.38,
+    "lng": 64.59,
+    "totalFreshwater_billionM3": 16.34,
+    "perCapita_m3": 486.506848670645,
+    "stressLevel": "absolute_scarcity"
+  },
+  {
+    "country": "Vanuatu",
+    "iso3": "VUT",
+    "lat": -15.38,
+    "lng": 166.96,
+    "totalFreshwater_billionM3": 10,
+    "perCapita_m3": 33460.7070916623,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Venezuela, RB",
+    "iso3": "VEN",
+    "lat": 6.42,
+    "lng": -66.59,
+    "totalFreshwater_billionM3": 805,
+    "perCapita_m3": 28301.1468433305,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Viet Nam",
+    "iso3": "VNM",
+    "lat": 14.06,
+    "lng": 108.28,
+    "totalFreshwater_billionM3": 359.42,
+    "perCapita_m3": 3664.5897701175,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "West Bank and Gaza",
+    "iso3": "PSE",
+    "lat": 31.95,
+    "lng": 35.23,
+    "totalFreshwater_billionM3": 0.812,
+    "perCapita_m3": 169.051535527159,
+    "stressLevel": "absolute_scarcity"
+  },
+  {
+    "country": "Yemen, Rep.",
+    "iso3": "YEM",
+    "lat": 15.55,
+    "lng": 48.52,
+    "totalFreshwater_billionM3": 2.1,
+    "perCapita_m3": 58.1156209171182,
+    "stressLevel": "absolute_scarcity"
+  },
+  {
+    "country": "Zambia",
+    "iso3": "ZMB",
+    "lat": -13.13,
+    "lng": 28.64,
+    "totalFreshwater_billionM3": 80.2,
+    "perCapita_m3": 4207.89851933915,
+    "stressLevel": "sufficient"
+  },
+  {
+    "country": "Zimbabwe",
+    "iso3": "ZWE",
+    "lat": -19.02,
+    "lng": 29.15,
+    "totalFreshwater_billionM3": 12.26,
+    "perCapita_m3": 789.598018611328,
+    "stressLevel": "chronic_shortage"
+  }
+]
